@@ -10,7 +10,7 @@
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
 
 
-
+m
 #4. Print a.
 
 
